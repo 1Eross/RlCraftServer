@@ -1,3 +1,5 @@
 RLCraft_DecentSkeleton,6838,6838,9704,9704
 RLCraft_UndergroundRuin3,6835,6843,9698,9706
 StonePlantBoulder,6866,6876,9645,9655
+StonePlantBoulder,6687,6697,9679,9689
+RLCraft_SmallUndergroundSkeleton,6774,6782,9540,9548

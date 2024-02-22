@@ -281,6 +281,8 @@ oreSilver
 blockSilver
 oreSapphire
 blockSapphire
+stonePolished
+plankStained
 trapdoorWood
 bookshelf
 bookshelfOak
@@ -301,8 +303,6 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
-stonePolished
-plankStained
 itemArmor
 itemPakFiller
 itemLeggings
