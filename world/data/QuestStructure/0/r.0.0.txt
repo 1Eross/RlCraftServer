@@ -1,0 +1,4 @@
+StoneLeafMound,219,226,279,288
+StoneLeafMound,153,160,297,306
+StonePlantBoulder,191,201,235,245
+P_MayanTemple2,-20,79,-11,57

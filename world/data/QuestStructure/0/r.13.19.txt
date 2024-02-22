@@ -1,0 +1,3 @@
+RLCraft_DecentZombie,6745,6745,9839,9839
+RLCraft_UndergroundRuin2,6743,6750,9834,9844
+StonePlantBoulder,6900,6910,9838,9848

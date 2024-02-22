@@ -1,5 +1,12 @@
+Did not find any Building data for .\config\ruins_config\mutated_taiga_cold, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\biome_parasite, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\birch_forest, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\swamp_defiled, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\red_desert, creating empty folder for it: success
+Did not find any Building data for .\config\ruins_config\mutated_taiga, creating empty folder for it: failed
+Did not find any Building data for .\config\ruins_config\mutated_birch_forest, creating empty folder for it: failed
 
-Loading options from: C:\Users\eross\Desktop\ForgeServer\RlCraftServer\world\LOST
+Loading options from: C:\Users\punchayf\Desktop\RlCraftServer\world\LOST
 tries_per_chunk_normal = 6
 chance_to_spawn_normal = 10.0
 templateInstancesMinDistance = 256.0

@@ -9,11 +9,27 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-18 78 -16 -10 84 -8 ShortTower.tml
+166 79 259 174 88 267 LargeStoneTwoStoryHouse.tml
+248 77 224 256 87 232 LargeStoneHouseWBasement.tml
+2015 87 -8404 2023 97 -8396 LargeStoneHouseWBasement.tml
+2026 98 -8273 2034 104 -8265 LargeStoneHouse.tml
+2074 33 -8111 2082 45 -8085 shipwreck.tml
+2088 71 -8197 2096 81 -8189 TallTower.tml
+2123 91 -8342 2130 94 -8337 Melonfield.tml
+2165 72 -8261 2170 80 -8256 PillarBase.tml
+2223 77 -8376 2231 83 -8368 ShortTower.tml
+2231 63 -8153 2238 76 -8147 TP_FishingShack.tml
+2251 66 -8290 2254 70 -8288 SkeletonHeadStatue.tml
+2308 48 -8087 2344 67 -8076 SunkenShip-v2.tml
+2329 71 -8233 2342 80 -8220 VolcanicVent.tml
+2357 82 -8332 2364 89 -8325 Outcrop.tml
+6683 92 9799 6686 96 9802 StoneGrill.tml
 6724 73 9655 6729 81 9660 PillarBase.tml
 6725 93 9575 6729 95 9579 EmeraldOreOutcrop.tml
 6736 75 9651 6744 84 9659 LargeStoneTwoStoryHouse.tml
 6758 71 9731 6765 75 9738 TinyFarmField.tml
-6832 97 9794 6840 107 9802 LargeStoneHouseWBasement.tml
 6832 62 9713 6840 68 9721 ShortTower.tml
+6832 97 9794 6840 107 9802 LargeStoneHouseWBasement.tml
 6908 63 9654 6911 69 9658 StonePillar.tml
 6910 63 9742 6913 67 9744 SkeletonHeadStatue.tml
